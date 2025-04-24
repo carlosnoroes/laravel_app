@@ -96,8 +96,8 @@ Siga os passos abaixo para configurar o projeto localmente:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+gh repo clone carlosnoroes/laravel_app
+cd laravel_app
 ```
 ### 2. Instale as dependências do backend (PHP)
 
